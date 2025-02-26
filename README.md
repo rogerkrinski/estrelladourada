@@ -5,6 +5,8 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Estrella Dourada - Mentoria com Janice Cleusa Wisniewski</title>
   <link rel="stylesheet" href="estilos.css">
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600,700&display=swap">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
 </head>
 <body>
   <header>
@@ -18,13 +20,13 @@
     </nav>
   </header>
   <main>
-    <section id="sobre">
+    <section id="hero">
       <h1>Estrella Dourada</h1>
       <p>Bem-vindo à Estrella Dourada, uma mentoria criada pela Terapeuta Janice Cleusa Wisniewski para ajudá-lo a alcançar seus objetivos e realizar seus sonhos.</p>
-      <img src="janice-wisniewski.jpg" alt="Janice Cleusa Wisniewski">
+      <button>Cadastre-se agora</button>
     </section>
-    <section id="mentoria">
-      <h2>O que é a Estrella Dourada?</h2>
+    <section id="sobre">
+      <h2>Sobre a Estrella Dourada</h2>
       <p>A Estrella Dourada é uma mentoria personalizada que visa ajudá-lo a:</p>
       <ul>
         <li>Definir e alcançar seus objetivos</li>
@@ -32,13 +34,18 @@
         <li>Desenvolver habilidades e competências</li>
         <li>Melhorar sua autoestima e confiança</li>
       </ul>
-      <p>Com a Estrella Dourada, você terá acesso a:</p>
+      <img src="janice-wisniewski.jpg" alt="Janice Cleusa Wisniewski">
+    </section>
+    <section id="mentoria">
+      <h2>O que é a Estrella Dourada?</h2>
+      <p>A Estrella Dourada é uma mentoria que oferece:</p>
       <ul>
         <li>Sessões de mentoria personalizadas</li>
         <li>Exercícios e atividades práticas</li>
         <li>Acesso a recursos exclusivos</li>
         <li>Suporte e orientação contínua</li>
       </ul>
+      <button>Cadastre-se agora</button>
     </section>
     <section id="depoimentos">
       <h2>O que os participantes dizem sobre a Estrella Dourada</h2>
